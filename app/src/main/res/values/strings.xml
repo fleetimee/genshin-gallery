@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">genshin-gallery</string>
+    <string name="genshin_title_one">Furina</string>
+    <string name="genshin_description_name">Hydro Archon</string>
+
+    <string name="genshin_title_two">Zhongli</string>
+    <string name="genshin_description_name_two">Geo Archon</string>
+
+    <string name="genshin_title_three">Venti</string>
+    <string name="genshin_description_name_three">Anemo Archon</string>
+
+    <string name="genshin_title_four">Raiden</string>
+    <string name="genshin_description_name_four">Electro Archon</string>
+
+    <string name="genshin_title_five">Nahida</string>
+    <string name="genshin_description_name_five">Dendro Archon</string>
+
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+</resources>
